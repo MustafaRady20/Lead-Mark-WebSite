@@ -599,6 +599,16 @@ a{
         color: white;
         outline: none;
 }
+.btn{
+    width: 100px;
+    padding: 10px 20px;
+    background-color: #fa4d18;
+    margin: 20px 0 0 ;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+}
 @media(max-width:780px){
     .footer .container {
             display: grid;
